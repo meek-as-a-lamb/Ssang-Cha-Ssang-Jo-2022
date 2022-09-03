@@ -3,17 +3,18 @@
 
 Sound Installation Project / 소리 설치 프로젝트
 
-![](images/P1001144.jpg)<br>*Outputs* (2022)
+![](images/P1001190.jpg)<br>*Outputs* (2022)
 
 
-Motors, Node MCUs, Woods, Broken Glasses, Glasses, Tape Player, Paper Bag, Threads, Thread Machine, Wooden Balls, Piano Sound Board, Speakers
 
 
 
 
 *소리로 빚어내는 깨달음의 순간 가림과 동시에 비추는 것, ‘쌍차쌍조’*
 
+
 소리의 다양한 결은 예술가의 손길을 거쳐 비로소 새로운 의미로 피어오른다. 때로는 소리가 갖는 고유의 속성을 파헤치면서, 때로는 소리에 새겨진 관념과 관행을 해체하면서 예술가는 소리와 맞닿은 세계를 고유의 상상력으로 비추어 낸다.
+
 
  
 임희주 작가는 청각을 불쾌하게 하는 소리, 시끄러운 소리, 신경을 건드리는 소리, 혼란을 야기하는 소리, 그로인해 배제되고 소외되어 온 소리인 ‘소음’에 천착한다. 누구나 불편해 하는 소음은 작가에게 창작의 원동력이자 내면을 비추고 깨달음을 얻어내는 힘이다. 소리의 경계에서, 소음이 갖는 소외적인 측면은 그로 하여금 무엇인가를 발언할 수 있는 강력한 도구가 된다.
@@ -38,8 +39,42 @@ Motors, Node MCUs, Woods, Broken Glasses, Glasses, Tape Player, Paper Bag, Threa
 
 또한 임희주 작가는 소음이 빚어내는 제의적 측면에 주목한다. 바타유(Georges Bataille)의 ‘희생제의’ 개념을 소음과 청취의 본질적 특성에 연결지어 해석한다. 소음은 내면에 도사리는 폭력성과 과잉에너지를 소비하도록 만드는 소리 매체다. 작가는 전시장의 영상과 소리 오브제의 총체적 디자인을 통해 자극적인 소음을 지속적으로 노출시키거나, 극단의 침묵과 과잉의 소음을 대치시켜 이를 고스란히 두 귀로, 온몸으로 받아들이게 하는 일종의 청각적 자학을 재현한다. 가상의 청각 재현을 경험함으로써 관람객은 스스로 희생되는 제의의 주체가 되어 본다. 작가는 제의의 샤먼처럼, 주술적 행위를 대신하며 그 과정을 돕는다. 작가의 전시 공간에서 이 과정은 그 자체가 고행이고 수행인 것이다. 특정 신을 위한 수행이 아니라 개인의 내면, 그리고 자아의 성찰을 위한 깨달음의 과정인 셈이다. 소리로 빚어내는 그 깨달음의 순간은 작가의 깊은 고민과 사유와 만나는 지점이기도 하다.
 
+
  
 글 | 김경화 음악학자
+
+
+# *Outputs* (2022)<br>
+Motors, Node MCUs, Woods, Broken Glasses, Glasses, Tape Player, Paper Bag, Threads, Thread Machine, Wooden Balls, Piano Sound Board, Speakers
+![](images/P1001209.jpg)
+
+![](images/P1001210.jpg)
+
+![](images/P1001194.jpg)
+
+![](images/P1001125.jpg)
+
+![](images/P1001164.jpg)
+
+![](images/P1001168.jpg)
+
+![](images/P1001198.jpg)
+
+![](images/P1001216.jpg)
+
+![](images/P100123333.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
