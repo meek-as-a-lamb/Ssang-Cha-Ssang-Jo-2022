@@ -44,8 +44,11 @@ Sound Installation Project / 소리 설치 프로젝트
 글 | 김경화 음악학자
 
 
+
+
 # *Outputs* (2022)<br>
 Motors, Node MCUs, Woods, Broken Glasses, Glasses, Tape Player, Paper Bag, Threads, Thread Machine, Wooden Balls, Piano Sound Board, Speakers
+
 ![](images/P1001209.jpg)
 
 ![](images/P1001210.jpg)
@@ -63,6 +66,30 @@ Motors, Node MCUs, Woods, Broken Glasses, Glasses, Tape Player, Paper Bag, Threa
 ![](images/P1001216.jpg)
 
 ![](images/P100123333.jpg)
+
+
+
+
+# *Input 1* (2022)<br> 
+Single Channel Video, 9'46", Sounds 
+
+![](images/Screen Shot 2022-08-24 at 4.44.56 PM.png)
+
+![](images/Screen Shot 2022-08-24 at 4.45.06 PM.png)
+
+![](images/Screen Shot 2022-08-24 at 4.45.21 PM.png)
+
+![](images/Screen Shot 2022-08-24 at 4.45.32 PM.png)
+
+
+
+# *Input 2* (2022)<br> 
+ Single Channel Video, 10'02", Muted
+ 
+ 
+
+
+
 
 
 
