@@ -49,23 +49,24 @@ Sound Installation Project / 소리 설치 프로젝트
 # *Outputs* (2022)<br>
 Motors, Node MCUs, Woods, Broken Glasses, Glasses, Tape Player, Paper Bag, Threads, Thread Machine, Wooden Balls, Piano Sound Board, Speakers
 
-![](images/P1001209.jpg)
 
-![](images/P1001210.jpg)
+<img src="images/P1001209.jpg" width="600"/>
 
-![](images/P1001194.jpg)
+<img src="images/P1001210.jpg" width="600"/>
 
-![](images/P1001125.jpg)
+<img src="images/P1001194.jpg" width="600"/>
 
-![](images/P1001164.jpg)
+<img src="images/P1001125.jpg" width="600"/>
 
-![](images/P1001168.jpg)
+<img src="images/P1001164.jpg" width="600"/>
 
-![](images/P1001198.jpg)
+<img src="images/P1001168.jpg" width="600"/>
 
-![](images/P1001216.jpg)
+<img src="images/P1001198.jpg" width="600"/>
 
-![](images/P100123333.jpg)
+<img src="images/P1001216.jpg" width="600"/>
+
+<img src="images/P100123333.jpg" width="600"/>
 
 
 
@@ -73,46 +74,25 @@ Motors, Node MCUs, Woods, Broken Glasses, Glasses, Tape Player, Paper Bag, Threa
 # *Input 1* (2022)<br> 
 Single Channel Video, 9'46", Sounds 
 
-![](images/2022-08-24-4.44.56.png)
+<img src="images/2022-08-24-4.44.56.png" width="600"/>
 
-![](images/2022-08-24-4.45.06.png)
+<img src="images/2022-08-24-4.45.06.png" width="600"/>
 
-![](images/2022-08-24-4.45.21.png)
+<img src="images/2022-08-24-4.45.21.png" width="600"/>
 
-![](images/2022-08-24-4.45.32.png)
-
-![](images/2022-08-24-4.45.51.png)
-
-![](images/2022-08-24-4.46.08.png)
-
-
-
+<img src="images/2022-08-24-4.45.32.png" width="600"/>
 
 
 
 
 # *Input 2* (2022)<br> 
- Single Channel Video, 10'02", Muted
+ Single Channel Video, 10'02", Muted Sound
  
  
+<img src="images/2022-08-24-4.45.51.png" width="600"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="images/2022-08-24-4.46.08.png" width="600"/>
+ 
+ 
 
 
