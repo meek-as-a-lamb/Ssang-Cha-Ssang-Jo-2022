@@ -3,7 +3,7 @@
 
 Sound Installation Project / 소리 설치 프로젝트
 
-[![**📼Video Archive📼 *Ssang-Cha-Ssang-Jo 双遮双照 : The Dream of Rainbow* (2022)**](http://img.youtube.com/vi/qDlN5sU7yBs/0.jpg)](https://youtu.be/qDlN5sU7yBs)
+[📼 Video and Sound 📢 *Ssang-Cha-Ssang-Jo 双遮双照 : The Dream of Rainbow* (2022)](https://youtu.be/qDlN5sU7yBs)
 
 <img src="images/P1001190.jpg"><br>*Outputs* (2022)
 
