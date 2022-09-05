@@ -73,13 +73,21 @@ Motors, Node MCUs, Woods, Broken Glasses, Glasses, Tape Player, Paper Bag, Threa
 # *Input 1* (2022)<br> 
 Single Channel Video, 9'46", Sounds 
 
-![](images/Screen Shot 2022-08-24 at 4.44.56 PM.png)
+![](images/2022-08-24-4.44.56.png)
 
-![](images/Screen Shot 2022-08-24 at 4.45.06 PM.png)
+![](images/2022-08-24-4.45.06.png)
 
-![](images/Screen Shot 2022-08-24 at 4.45.21 PM.png)
+![](images/2022-08-24-4.45.21.png)
 
-![](images/Screen Shot 2022-08-24 at 4.45.32 PM.png)
+![](images/2022-08-24-4.45.32.png)
+
+![](images/2022-08-24-4.45.51.png)
+
+![](images/2022-08-24-4.46.08.png)
+
+
+
+
 
 
 
