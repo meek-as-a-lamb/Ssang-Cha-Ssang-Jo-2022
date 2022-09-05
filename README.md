@@ -95,4 +95,11 @@ Single Channel Video, 9'46", Sounds
  
  
 
+# References<br>
+- 김경화. “노이즈 듣기: 20세기의 청각 문화 안에서 소음의 소리 정체성.” 『음악이론연구』 27 (2016): 140-163.
+- 김경화. “노이즈의 역설: 유토피아적 실현인가? 디스토피아적 상상인가?” 『음악논단』 38 (2017): 149-179.
+- Bataille, Georges. 『저주의 몫』(*La part maudite*). 조한경 역. 파주: 문학동네, 2004.
+- Girard, René. 『폭력과 성스러움』(*La Violence et le Sacré*). 김진식,박무호 공역. 서울: 민음사, 1993.
+- Quignard, Pascal. 『음악혐오』(*La haine de la musique*). 김유진 역. 서울: 프란츠, 2017.
+
 
