@@ -77,6 +77,12 @@ Motors, Node MCUs, Woods, Broken Glasses, Glasses, Tape Player, Paper Bag, Threa
 
 <img src="images/P100123333.jpg" width="600"/>
 
+✺ 프로그래밍: 버시스 (강정우, 김경태)
+✺ Programed by Verses (Kang Jung-woo, Kim Kyung-tae)
+
+✺ 피아노 향판 제작: 드림로보 (이정민) 
+✺ Piano Soundboard object production: DreamRobo (Lee Jung-min)
+
 
 
 
@@ -91,7 +97,8 @@ Single Channel Video, 9'46", Sounds
 
 <img src="images/2022-08-24-4.45.32.png" width="600"/>
 
-
+✺ 출연 및 자문: 김세환 법사
+✺ Starred and advice by Korean Shaman Kim Se-Hwan
 
 
 # *Input 2* (2022)<br> 
@@ -102,11 +109,16 @@ Single Channel Video, 9'46", Sounds
 
 <img src="images/2022-08-24-4.46.08.png" width="600"/>
  
+✺ 모션 그래픽 디자인: 임희윤 
+✺ Motion Graphic Design by Im Hee-yun
+
+ 
  
 
 # References<br>
 - 김경화. “노이즈 듣기: 20세기의 청각 문화 안에서 소음의 소리 정체성.” 『음악이론연구』 27 (2016): 140-163.
 - 김경화. “노이즈의 역설: 유토피아적 실현인가? 디스토피아적 상상인가?” 『음악논단』 38 (2017): 149-179.
+- 최수빈. "‘희생제의(Sacrifice)’의 관점에서 본 도교의례:제물(祭物, sacrifice)과 사제(司祭, sacrificer)의 기능과 의미를 중심으로" 『종교문화비평』 31 (2017): 91-140. 
 - Bataille, Georges. 『저주의 몫』(*La part maudite*). 조한경 역. 파주: 문학동네, 2004.
 - Girard, René. 『폭력과 성스러움』(*La Violence et le Sacré*). 김진식,박무호 공역. 서울: 민음사, 1993.
 - Quignard, Pascal. 『음악혐오』(*La haine de la musique*). 김유진 역. 서울: 프란츠, 2017.
