@@ -98,7 +98,7 @@ Single Channel Video, 9'46", Sounds
 <img src="images/2022-08-24-4.45.32.png" width="600"/>
 
 ✺ 출연 및 자문: 김세환 법사
-✺ Starred and advice by Korean Shaman Kim Se-Hwan
+✺ Starred and adviced by Korean Shaman Kim Se-Hwan
 
 
 # *Input 2* (2022)<br> 
@@ -113,7 +113,8 @@ Single Channel Video, 9'46", Sounds
 ✺ Motion Graphic Design by Im Hee-yun
 
  
- 
+*본 프로젝트는 한국문화예술위원회의 지원을 받아 제작하였습니다.*
+*This project was produced by the support of Arts Council Korea.*
 
 # References<br>
 - 김경화. “노이즈 듣기: 20세기의 청각 문화 안에서 소음의 소리 정체성.” 『음악이론연구』 27 (2016): 140-163.
